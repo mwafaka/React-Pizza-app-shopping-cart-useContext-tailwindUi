@@ -2,7 +2,7 @@ const data = [
     {
       "name": "Margherita Pizza",
       "description": "Classic Italian pizza topped with tomato sauce, mozzarella cheese, and fresh basil leaves.",
-      "image": "./public/pizza-items/Margherita.jpeg",
+      "image": "public/pizza-items/Margherita.jpeg",
       "price": 9.99
     },
     {

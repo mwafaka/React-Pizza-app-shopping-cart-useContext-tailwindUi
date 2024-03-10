@@ -20,7 +20,7 @@ export default function Navbar() {
 
 
   const toggle=()=>{
-    console.log(open)
+
     setOpen(!open)
    
   }

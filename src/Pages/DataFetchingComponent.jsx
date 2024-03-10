@@ -1,5 +1,5 @@
 // DataFetchingComponent.js
-import { useState, useEffect } from 'react';
+
 import {  useContext } from "react"
 import { AppContext } from '../CreateContext'
 import data from '../../data.js'
