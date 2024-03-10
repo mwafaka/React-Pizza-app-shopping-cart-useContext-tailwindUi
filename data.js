@@ -50,13 +50,13 @@ const data = [
     {
       "name": "Four Cheese Pizza",
       "description": "Rich and creamy pizza topped with a blend of mozzarella, cheddar, provolone, and parmesan cheeses.",
-      "image": "./public/pizza-items/Four-Cheese.jpg",
+      "image": "./Four-Cheese.jpg",
       "price": 12.99
     },
     {
       "name": "Buffalo Chicken Pizza",
       "description": "Spicy pizza topped with buffalo sauce, grilled chicken, red onions, and blue cheese crumbles.",
-      "image": "./public/pizza-items/Buffalo-Chicken-Pizza.jpg",
+      "image": "./Buffalo-Chicken-Pizza.jpg",
       "price": 12.99
     }
   ]
