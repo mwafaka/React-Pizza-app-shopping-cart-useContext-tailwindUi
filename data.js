@@ -8,43 +8,43 @@ const data = [
     {
       "name": "Pepperoni Pizza",
       "description": "A popular pizza topped with tomato sauce, mozzarella cheese, and slices of spicy pepperoni.",
-      "image": "./public/pizza-items/Pepperoni.webp",
+      "image": "./Pepperoni.webp",
       "price": 10.99
     },
     {
       "name": "Vegetarian Pizza",
       "description": "A flavorful pizza loaded with fresh vegetables such as bell peppers, mushrooms, onions, and olives.",
-      "image": "./public/pizza-items/vegetarian.jpg",
+      "image": "./vegetarian.jpg",
       "price": 11.99
     },
     {
       "name": "BBQ Chicken Pizza",
       "description": "Delicious pizza topped with tangy barbecue sauce, grilled chicken, red onions, and cilantro.",
-      "image": "./public/pizza-items/BBQ-Chicken.jpg",
+      "image": "./BBQ-Chicken.jpg",
       "price": 12.99
     },
     {
       "name": "Supreme Pizza",
       "description": "A hearty pizza topped with pepperoni, sausage, bell peppers, onions, mushrooms, and olives.",
-      "image": "./public/pizza-items/supreme.jpg",
+      "image": "./supreme.jpg",
       "price": 13.99
     },
     {
       "name": "Hawaiian Pizza",
       "description": "A controversial pizza topped with tomato sauce, mozzarella cheese, ham, and pineapple.",
-      "image": "./public/pizza-items/Hawaiian.jpeg",
+      "image": "./Hawaiian.jpeg",
       "price": 11.99
     },
     {
       "name": "Mushroom Pizza",
       "description": "Simple yet satisfying pizza topped with tomato sauce, mozzarella cheese, and sliced mushrooms.",
-      "image": "./public/pizza-items/mushroom.jpg",
+      "image": "./mushroom.jpg",
       "price": 10.99
     },
     {
       "name": "Meat Lovers Pizza",
       "description": "A meaty delight topped with pepperoni, sausage, ham, bacon, and ground beef.",
-      "image": "./public/pizza-items/meat-lovers.jpg",
+      "image": "./meat-lovers.jpg",
       "price": 13.99
     },
     {
